@@ -1,4 +1,4 @@
-# Frontend Mentor - Single Price Grid Component
+# [Frontend Mentor - Single Price Grid Component](https://fm-single-price-grid-component.netlify.app/)
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
