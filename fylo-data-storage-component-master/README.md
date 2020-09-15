@@ -1,4 +1,4 @@
-# Frontend Mentor - Fylo data storage component
+# [Frontend Mentor - Fylo data storage component](https://frontendmentor-fylo-data-storage.netlify.app/)
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
